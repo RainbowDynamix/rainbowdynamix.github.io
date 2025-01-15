@@ -20,6 +20,7 @@ author: Julian Peña
 ###############################################
 
 navbar-links:
+  About: aboutme
   Resume: "/assets/files/julianpena_resume-public.pdf"
 
 ################

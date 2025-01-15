@@ -1,16 +1,22 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About
+subtitle: Since you're sooo nosy
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am currently a Junior studying Computer Science at the **University of Texas at San Antonio**. I have previously interned at **CrowdStrike** as a Security Engineer Intern focusing on detection engineering, and at **Booz Allen Hamilton** as a Red Team Operator Intern for commercial clients. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I have always been a tinkerer and had a particular interest in computers and how they worked. I never knew that this interest would turn into a career, but ever since I competed in a national cybersecurity competition in middle and high school (2015), I became hooked on InfoSec and knew that it would be what I wanted to dedicate my life to.
 
-What else do you need?
+As a perpetual student, I am always looking to sharpen my skills by playing CTFs, taking live and on-demand training, and attending conferences or local hacking meetups. My interests have fluctuated over time, but my primary interests are:
+- Adversary Emulation 
+- DFIR
+- Windows and MacOS Internals
+- Reverse Engineering
+- Exploit Development
 
-### My story
+I love contributing to the infosec community and I'm constantly looking for new opportunities to learn from others. I never want to be the smartest in the room! In my spare time, I enjoy reading books, attending live music events, playing rhythm games, and playing with my dog :).
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I made this blog to document interesting things I do that I think others could enjoy or benefit from reading. I encourage feedback on all my posts. Never hesititate to reach out on X or LinkedIn!
+
+Cheers!
