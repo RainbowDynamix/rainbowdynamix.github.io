@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-subtitle: Since you're sooo nosy
+title: About Me
+subtitle: Nice to meet you! :)
 ---
 
 I am currently a Junior studying Computer Science at the **University of Texas at San Antonio**. I have previously interned at **CrowdStrike** as a Security Engineer Intern focusing on detection engineering, and at **Booz Allen Hamilton** as a Red Team Operator Intern for commercial clients. 
