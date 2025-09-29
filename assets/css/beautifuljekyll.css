@@ -80,8 +80,8 @@ a:focus {
   color: var(--hover-col);
 }
 blockquote {
-  color: var(--mid-col);
-  font-style: italic;
+  background-color: #c4c4c4;
+  color: #000000;
 }
 blockquote p:first-child {
   margin-top: 0;
@@ -542,9 +542,12 @@ footer .footer-custom-content {
 .post-preview .post-image {
   float: right;
   margin-left: 0.625rem;
-  height: 12rem;
-  width: 12rem;
+  height: 16rem;   /* increased from 12rem */
+  width: 16rem;    /* increased from 12rem */
+  object-fit: cover; /* optional: keeps aspect ratio nicely */
+  border-radius: 6px; /* optional: adds rounded corners */
 }
+
 .post-preview .post-image {
   filter: grayscale(40%);
 }
@@ -876,6 +879,7 @@ pre code {
 }
 
 pre {
+  background: #ffffff;
   font-size: 0.875rem;
   line-height: 1.5em;
   border-radius: 0.25rem;
@@ -883,7 +887,7 @@ pre {
 }
 .highlight pre {
   border: none;
-  background: none;
+  background: #ffffff;
   margin: 0;
 }
 .highlight > pre {

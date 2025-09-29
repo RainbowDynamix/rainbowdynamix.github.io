@@ -10,8 +10,8 @@ I have always been a tinkerer and had a particular interest in computers and how
 
 As a perpetual student, I am always looking to sharpen my skills by playing CTFs, taking live and on-demand training, and attending conferences or local hacking meetups. My interests have fluctuated over time, but my primary interests are:
 - Adversary Emulation 
-- DFIR
-- Windows and MacOS Internals
+- DFIR/Detection Engineering
+- Windows Internals
 - Reverse Engineering
 - Exploit Development
 

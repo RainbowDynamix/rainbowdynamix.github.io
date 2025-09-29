@@ -1,14 +1,13 @@
 ---
 layout: page
+title: Writeups
+subtitle: UNDER CONSTRUCTION
 ---
 
-{{ content }}
-
-{% assign posts = paginator.posts | default: site.posts %}
+{% assign writeup_posts = site.posts | where_exp: "post", "post.tags contains 'writeups'" %}
 
 <div class="posts-list">
-  {% for post in posts %}
-  {% unless post.tags contains 'writeups' or post.tags contains 'archive' %}
+  {% for post in writeup_posts %}
   <article class="post-preview">
 
     {%- capture thumbnail -%}
@@ -87,21 +86,5 @@ layout: page
     {% endif %}
 
    </article>
-  {% endunless %}
   {% endfor %}
 </div>
-
-{% if paginator.total_pages > 1 %}
-<ul class="pagination main-pager">
-  {% if paginator.previous_page %}
-  <li class="page-item previous">
-    <a class="page-link" href="{{ paginator.previous_page_path | absolute_url }}">&larr; Newer Posts</a>
-  </li>
-  {% endif %}
-  {% if paginator.next_page %}
-  <li class="page-item next">
-    <a class="page-link" href="{{ paginator.next_page_path | absolute_url }}">Older Posts &rarr;</a>
-  </li>
-  {% endif %}
-</ul>
-{% endif %}
