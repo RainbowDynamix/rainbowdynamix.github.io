@@ -4,7 +4,7 @@ title: About Me
 subtitle: Nice to meet you! :)
 ---
 
-I have always been a tinkerer and had a particular interest in computers and how they worked. I never knew that this interest would turn into a career, but ever since I competed in a national cybersecurity competition in middle and high school (2015), I became hooked on InfoSec and knew that it would be what I wanted to dedicate my life to.
+I have always been a tinkerer and had a particular interest in computers and how they worked. I never knew that this interest would turn into a career, but ever since I competed in a national cybersecurity competition in middle and high school, I became hooked on InfoSec and knew that it would be what I wanted to dedicate my life to.
 
 I love contributing to the infosec community and I'm constantly looking for new opportunities to learn from others. I never want to be the smartest in the room! In my spare time, I enjoy reading books, attending live music events, and playing with my dog :).
 
@@ -12,16 +12,19 @@ Listed below is a brief summary of my experience, research, and infosec involvem
 
 - **Experience**
     - [CrowdStrike](https://www.crowdstrike.com/en-us/)
-        - Security Engineer Intern (Jun. 2024 - Present)
+        - Security Engineer (Jun. 2024 - Present)
     - [Booz Allen](http://boozallen.com/)
-        - Cyber Intelligence Analyst Intern (Jun. 2022 - Jun. 2024)
-        - Red Team Operator Intern (Feb. 2023 - Aug. 2023)
+        - Red Team Operator (Feb. 2023 - Jun. 2024)
+        - Cyber Intelligence Analyst (Jun. 2022 - Feb. 2023)
+    - ClearTech LLC
+        - Security Control Assessor (Nov. 2021 - Jun. 2022)
 
 - **Education**
     - [Western Governors University](https://www.wgu.edu/)
-        - Bachelor of Science, Cybersecurity and Information Assurance
+        - Bachelor of Science, Cybersecurity and Information Assurance *(in-progress)*
 
 - **Open Source Projects**
+    - [NdisHook](https://github.com/RainbowDynamix/NdisHook) - Rootkit capability to intercept inbound and outbound network connections at the lowest abstracted layer of the Windows networking stack
     - [GhostKatz](https://github.com/RainbowDynamix/GhostKatz) - Beacon Object File (BOF) designed to dump LSASS via physical memory read primitives in vulnerable kernel drivers (Aug. 2025 - Feb. 2026)
     - [GoodBaiii](https://github.com/RainbowDynamix/GoodBaiii) - Tool that leverages the Bring Your Own Vulnerable Driver (BYOVD) technique with a Baidu AV driver that allows an operator to terminate any process (Jun. 2025)
 
